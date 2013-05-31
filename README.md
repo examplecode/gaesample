@@ -19,3 +19,7 @@
 ## hello_wsgi
 
 使用 wsgi 规范的例子
+
+## hello_url_fetch
+
+使用 url_fetch的例子
